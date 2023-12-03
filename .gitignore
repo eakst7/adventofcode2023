@@ -1,0 +1,5 @@
+.vscode/settings.json
+.*_cache
+__pycache__
+venv
+day3/python/part1/input1.txt

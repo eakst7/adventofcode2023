@@ -1,5 +1,7 @@
 .vscode/settings.json
+.vscode/launch.json
 .*_cache
 __pycache__
-venv
-day3/python/part1/input1.txt
+venv*
+input*.txt
+
